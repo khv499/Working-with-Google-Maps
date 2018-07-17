@@ -1,5 +1,5 @@
 # Define your working directory
-setwd("C:/Users/Harshavardhan Koneru/Documents/Working with Google Maps")
+setwd("C:/Users/admin/Documents/Working with Google Maps")
 getwd()
 
 # Read all of the LGA profiles in
