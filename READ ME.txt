@@ -12,7 +12,7 @@
 
 # Define your working directory
 # Ensure to use the forward / slash
-setwd("C:/Users/Harshavardhan Koneru/Documents/Working with Google Maps")
+setwd("C:/Users/admin/Documents/Working with Google Maps")
 getwd()
 
 ##### First organise your workspace for R scripts and data, e.g.
